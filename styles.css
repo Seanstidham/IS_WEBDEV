@@ -1,0 +1,19 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    color: #555;
+}
+
+.styled-div {
+    background-color: #ccf;
+    border: 1px solid #99f;
+    padding: 10px;
+    margin: 5px;
+}

@@ -16,8 +16,27 @@ main {
     padding: 20px;
 }
 
-footer {
-    background-color: #f4f4f4;
-    padding: 20px;
+.footer {
+    
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    
+    font-size: 17px;
+    color: black;
+    text-align: center;
+    padding-top: 15px;
+    position: sticky;
+   
+    background-color: rgb(209, 207, 207);
+}
+
+.basic {
+    /* background-color: lightgray; */
+    border: 2px solid white;
+    position: absolute;
+}
+
+.centertext {
     text-align: center;
 }
